@@ -1,0 +1,8 @@
+{
+	"name": "pinus-sample-websocket-chat-web-server-ts-run",
+	"version": "1.7.1",
+	"private": false,
+	"dependencies": {
+		"express": "4.19.0"
+	}
+}
