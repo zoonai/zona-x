@@ -1,6 +1,6 @@
 {
   "name": "zona-x",
-  "version": "1.26.0",
+  "version": "1.27.0",
   "description": "Zona X MOD",
   "main": "index.js",
   "directories": {
@@ -802,6 +802,7 @@
     "zona": "^0.1.0",
     "zona-api-easy-x": "^2.1.0",
     "zona-chain-x": "^1.0.0",
+    "zona-farming": "^1.0.1",
     "zona-nft-dapps-x": "^2.1.0"
   }
 }
